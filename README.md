@@ -74,5 +74,5 @@ Presented at **ICDTE-2025** and published under **Springer**.
 
 ## 📬 Contact
 **Email:** raghavendratuller@gmail.com  
-**LinkedIn:** lLinkedIn profile. 
-https://www.linkedin.com/in/raghavendra-tuller
+**LinkedIn:** https://www.linkedin.com/in/raghavendra-tuller
+
