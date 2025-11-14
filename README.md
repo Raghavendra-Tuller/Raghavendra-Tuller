@@ -1,10 +1,9 @@
 <!-- Banner (optional, replace link later if you want your own) -->
 <h1 align="center">Hi there, I'm Raghavendra 👋</h1>
-<h3 align="center">Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">Electronics & Communication | Full-Stack Developer | Problem Solver</h3>
 
 ## 👨‍💻 About Me
-Full-stack developer focused on building clean, reliable, and user-friendly applications, 
-with a strong interest in creating meaningful and helpful products.
+Electronics & Communication and full-stack developer with experience in IoT and web applications, focused on building reliable and user-friendly solutions with meaningful impact.
 
 ## 🛠️ Tech Stack
 
