@@ -1,8 +1,6 @@
 <!-- Banner (optional, replace link later if you want your own) -->
-<h1 align="center">🚀 Raghavendra Tuller</h1>
+<h1 align="center">Hi there, I'm Raghavendra 👋</h1>
 <h3 align="center">Full-Stack Developer | Problem Solver</h3>
-
----
 
 ## 👨‍💻 About Me
 Full-stack developer focused on building clean, reliable, and user-friendly applications, 
@@ -45,7 +43,6 @@ with a strong interest in creating meaningful and helpful products.
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
 
 ## 📘 Data Structures & Algorithms (DSA)
 Strong foundation in DSA basics including:
@@ -74,9 +71,8 @@ Presented at **ICDTE-2025** and published under **Springer**.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavendra-Tuller&layout=compact&theme=default" />
 </p>-->
 
----
 
 ## 📬 Contact
 **Email:** raghavendratuller@gmail.com  
 **LinkedIn:** lLinkedIn profile. 
-https://www.linkedin.com/in/raghavendra-tul
+https://www.linkedin.com/in/raghavendra-tuller
