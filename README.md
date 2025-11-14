@@ -5,10 +5,8 @@
 ---
 
 ## 👨‍💻 About Me
-Full-stack developer focused on building reliable, scalable, and user-centric applications.  
-I work across frontend, backend, and databases with clean logic and maintainable code.
-
----
+Full-stack developer focused on building clean, reliable, and user-friendly applications, 
+with a strong interest in creating meaningful and helpful products.
 
 ## 🛠️ Tech Stack
 
@@ -53,32 +51,32 @@ I work across frontend, backend, and databases with clean logic and maintainable
 Strong foundation in DSA basics including:
 - Arrays, strings, linked lists, stacks, queues  
 - Basic algorithms (sorting, searching, recursion)  
-- Problem solving using **C, C++, and JavaScript**
-
----
+- Problem solving using C++
 
 ## 📂 Projects
 
 ### 🔹 **EduVault – Notes Sharing Platform**
-A clean and efficient platform for students to upload, manage, and access academic notes.  
-*(Add repository link once uploaded)*
+A platform designed for students to upload, organize, and access academic notes.  
+Features a clean interface, structured backend functionality, and efficient data handling.  
+https://eduvault-app.netlify.app/
 
 ### 🔹 **IoT-Based Livestock Monitoring System**
 Real-time livestock monitoring using ESP32 and sensors.  
 Presented at **ICDTE-2025** and published under **Springer**.  
-*(Add publication link when available)*
+
 
 ---
 
-## 📊 GitHub Analytics
+<!--## 📊 GitHub Analytics
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Raghavendra-Tuller&show_icons=true&theme=default" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghavendra-Tuller&layout=compact&theme=default" />
-</p>
+</p>-->
 
 ---
 
 ## 📬 Contact
 **Email:** raghavendratuller@gmail.com  
-**LinkedIn:** l
+**LinkedIn:** lLinkedIn profile. 
+https://www.linkedin.com/in/raghavendra-tul
