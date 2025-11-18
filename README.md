@@ -12,8 +12,8 @@ Electronics & Communication and full-stack developer with experience in IoT and 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+  <img <!--src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p> -->
 
 ### **Frontend**
 <p>
@@ -43,13 +43,13 @@ Electronics & Communication and full-stack developer with experience in IoT and 
 </p>
 
 
-## 📘 Data Structures & Algorithms (DSA)
+##  Data Structures & Algorithms (DSA)
 Strong foundation in DSA basics including:
 - Arrays, strings, linked lists, stacks, queues  
 - Basic algorithms (sorting, searching, recursion)  
 - Problem solving using C++
 
-## 📂 Projects
+## Projects
 
 ### 🔹 **EduVault – Notes Sharing Platform**
 A platform designed for students to upload, organize, and access academic notes.  
@@ -63,7 +63,7 @@ Presented at **ICDTE-2025** and published under **Springer**.
 
 ---
 
-<!--## 📊 GitHub Analytics
+<!--##  GitHub Analytics
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Raghavendra-Tuller&show_icons=true&theme=default" />
@@ -71,7 +71,7 @@ Presented at **ICDTE-2025** and published under **Springer**.
 </p>-->
 
 
-## 📬 Contact
+## Contact
 **Email:** raghavendratuller@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/raghavendra-tuller
 
