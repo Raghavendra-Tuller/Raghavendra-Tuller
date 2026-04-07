@@ -66,10 +66,10 @@
 
 ---
 
-<!--## 📌 Projects
+## 📌 Projects
 - React Performance Playground  
 - IoT Smart Trash Collection System  
-- Building Cleaning Drone --> 
+- Building Cleaning Drone  
 
 ---
 
