@@ -1,6 +1,6 @@
 # Hi, I'm Raghavendra Tuller 👋
 
-💡 Full-Stack Developer | IoT Enthusiast | Problem Solver  
+ Full-Stack Developer | IoT Enthusiast | Problem Solver  
 
 ---
 
@@ -66,10 +66,10 @@
 
 ---
 
-## 📌 Projects
+<!--## 📌 Projects
 - React Performance Playground  
 - IoT Smart Trash Collection System  
-- Building Cleaning Drone  
+- Building Cleaning Drone --> 
 
 ---
 
