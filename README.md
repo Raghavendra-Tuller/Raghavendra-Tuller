@@ -4,10 +4,9 @@
   </span>
 </h1>
 
-<p align="center">
   <i>Full-Stack Developer | IoT Enthusiast | Problem Solver</i>
 </p>
----
+
 
 ## 🌐 Socials
 
