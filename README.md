@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   <span style="font-family: Arial, sans-serif;">
     Hi, I'm Raghavendra Tuller 👋
   </span>
@@ -38,6 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+
 
 </p>
 
