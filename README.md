@@ -1,7 +1,12 @@
-# Hi, I'm Raghavendra Tuller 👋
+<h1 align="center">
+  <span style="font-family: Arial, sans-serif;">
+    Hi, I'm Raghavendra Tuller 👋
+  </span>
+</h1>
 
-**Full-Stack Developer | IoT Enthusiast | Problem Solver**
-
+<p align="center">
+  <i>Full-Stack Developer | IoT Enthusiast | Problem Solver</i>
+</p>
 ---
 
 ## 🌐 Socials
